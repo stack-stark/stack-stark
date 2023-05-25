@@ -12,10 +12,10 @@
 ![Metrics](https://img.shields.io/static/v1?label=&message=守望描边大师&color=blueviolet)
 ![Metrics](https://img.shields.io/static/v1?label=&message=峡谷混子&color=critical)
 
-## 90后，4年前端开发。喜欢玩电子游戏，人菜瘾大，标准网瘾中年。一个爱国友善，积极向上，热爱生活的人。
+## 90后，5年前端开发。喜欢玩电子游戏，人菜瘾大，标准网瘾中年。一个爱国友善，积极向上，热爱生活的人。
 
-- 🌱 目前在学习数据可视化相关知识
-- 😄 平时喜欢学做菜
+- 🌱 目前在学习nestjs，k8s相关知识
+- 😄 平时喜欢做菜
 - ⚡ 有个个人博客，可以瞄一眼 https://asnyc.cn/
 
 
@@ -23,8 +23,6 @@
 
 ### ngx-g2plot
 angular library。基于蚂蚁金服图表库g2plot的angular封装
-
-![g2](https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*sXqrRrEwFRQAAAAAAAAAAABkARQnAQ)
 
 https://github.com/stack-stark/ngx-g2plot
 
@@ -34,7 +32,6 @@ https://www.npmjs.com/package/ngx-g2plot
 ### 码上看鸡
 vscode插件。根据设置的基金代码获取当前基金涨跌情况数据生成js代码
 
-![g2](https://asnyc.cn/assets/images/index/code2.png)
 
 https://github.com/stack-stark/observe-chicken-in-code
 
@@ -45,7 +42,6 @@ https://marketplace.visualstudio.com/items?itemName=stack-stark-code.observe-chi
 ### ng-live2d
 angular library。基于live2djs封装，方便在angular项目上使用live2d模型。
 
-![g2](https://asnyc.cn/assets/images/index/2d.png)
 
 https://github.com/stack-stark/ng-live2d
 
@@ -53,7 +49,6 @@ https://www.npmjs.com/package/ng-live2d
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stack-stark)](https://github.com/stack-stark/github-readme-stats)
-
 
 
 ![vercel](https://github-readme-stats.vercel.app/api?username=stack-stark)

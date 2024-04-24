@@ -42,7 +42,7 @@ vscode 插件。根据设置的基金代码获取当前基金涨跌情况数据�
 
 ### 快捷 emoji 😀
 
-这是一个在编辑区输入`000`+ emoji 名字（中文或者英文）就可以生成 emoji 的 vs code 插件，内置三千多个 emoji，可以让我们快速生成 emoji！
+这是一个在编辑区输入`000`+ emoji 名字（中文）就可以生成 emoji 的 vs code 插件，内置三千多个 emoji，可以让我们快速生成 emoji！
 
 [Github 源码](https://github.com/stack-stark/fast-emoji)
 

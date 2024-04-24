@@ -14,38 +14,46 @@
 - ⚡ 目前在学习 node.js,刷 LeetCode 中
 - 🧭 有个个人博客，可以瞄一眼 https://asnyc.cn/
 
-## 个人开源项目
+## 开源项目
 
-### ngx-g2plot
+### ngx-g2plot 📈
 
 angular library。基于蚂蚁金服图表库 g2plot 的 angular 封装
 
-https://github.com/stack-stark/ngx-g2plot
+[Github 源码](https://github.com/stack-stark/ngx-g2plot)
 
-https://www.npmjs.com/package/ngx-g2plot
+[Npm 仓库地址](https://www.npmjs.com/package/ngx-g2plot)
 
-### 码上看鸡
+### 码上看鸡 🐔
 
 vscode 插件。根据设置的基金代码获取当前基金涨跌情况数据生成 js 代码
 
-https://github.com/stack-stark/observe-chicken-in-code
+[Github 源码](https://github.com/stack-stark/observe-chicken-in-code)
 
-https://marketplace.visualstudio.com/items?itemName=stack-stark-code.observe-chicken-in-code
+[插件安装](https://marketplace.visualstudio.com/items?itemName=stack-stark-code.observe-chicken-in-code)
 
 ### ngx-live2d
 
 基于 live2d.js 构建的 angular17 版本的 live2d 库
 
-https://github.com/stack-stark/ngx-live2d
+[Github 源码](https://github.com/stack-stark/ngx-live2d)
 
-https://www.npmjs.com/package/ngx-live2d
+[Npm 仓库地址](https://www.npmjs.com/package/ngx-live2d)
+
+### 快捷 emoji 😀
+
+这是一个在编辑区输入`000`+ emoji 名字（中文或者英文）就可以生成 emoji 的 vs code 插件，内置三千多个 emoji，可以让我们快速生成 emoji！
+
+[Github 源码](https://github.com/stack-stark/fast-emoji)
+
+[插件安装](https://marketplace.visualstudio.com/items?itemName=stack-stark-code.fast-emoji)
+
+## 编程语言使用情况
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stack-stark)](https://github.com/stack-stark/github-readme-stats)
 
 <!-- ![vercel](https://github-readme-stats.vercel.app/api?username=stack-stark)
 
+![metrics](https://metrics.lecoq.io/stack-stark?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 
-
-![metrics](https://metrics.lecoq.io/stack-stark?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai) -->
-
-<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=stack-stark&theme=xcode" /> </div> -->
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=stack-stark&theme=xcode" /> </div> -->

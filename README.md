@@ -16,7 +16,7 @@
 - 👨‍🦱 90 后已婚，有个可爱的女儿。
 - ⚡ 目前在学习 node.js,刷 LeetCode 中
 - 🎮️ 带娃空闲之余会玩英雄联盟手游和原神
-- 🧭 有个个人博客，可以瞄一眼 https://asnyc.cn
+<!-- - 🧭 有个个人博客，可以瞄一眼 https://asnyc.cn -->
 
 ![Something](https://kuaiyouyi.oss-cn-shenzhen.aliyuncs.com/disk/2024-09-23/aa5238ea-514e-4159-bb1b-b104924092db.GIF)
 
@@ -39,3 +39,8 @@
 ![metrics](https://metrics.lecoq.io/stack-stark?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=stack-stark&theme=xcode" /> </div> -->
+
+
+如果我的项目对你有帮助，你想请我喝咖啡
+
+![](resources/wechat.jpg)

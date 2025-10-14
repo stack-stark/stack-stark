@@ -43,4 +43,4 @@
 
 如果我的项目对你有帮助，你想请我喝咖啡
 
-![](resources/wechat.jpg)
+![](resources/code.jpg)

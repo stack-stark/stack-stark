@@ -6,19 +6,22 @@
 
 ![Metrics](https://img.shields.io/static/v1?label=&message=热爱生活❤️&color=blue)
 ![Metrics](https://img.shields.io/static/v1?label=&message=积极向上⬆️&color=green)
-![Metrics](https://img.shields.io/static/v1?label=&message=网瘾少年🎮️&color=red)
+![Metrics](https://img.shields.io/static/v1?label=&message=网瘾中年🎮️&color=red)
 ![Metrics](https://img.shields.io/static/v1?label=&message=韭零后👨‍🦱&color=success)
-![Metrics](https://img.shields.io/static/v1?label=&message=峡谷混子🕹️&color=pink)
+![Metrics](https://img.shields.io/static/v1?label=&message=海拉鲁老流氓🕹️&color=pink)
 
 <!-- - 🛠️ 6 年前端开发，熟练使用 vue、 angular、react 框架；对 flutter，uniapp，taro，electron，tauri 等跨端框架略有研究。 -->
-- 🛠️ 7 年前端开发。
+- 🛠️ 8 年前端开发。
 - 🍳 热爱生活，喜欢做饭
 - 👨‍🦱 90 后已婚，有个可爱的女儿。
-- ⚡ 目前在学习 node.js,刷 LeetCode 中
-- 🎮️ 带娃空闲之余会玩英雄联盟手游和原神
+- ⚡ 目前在转全栈Vibe Coding中
+- 🎮️ 带娃空闲之余会玩英雄联盟手游和swtich
+- 💰️ 对长期持有黄金有绝对的信念
 <!-- - 🧭 有个个人博客，可以瞄一眼 https://asnyc.cn -->
+<!-- - ⚡ 目前在学习 node.js,刷 LeetCode 中 -->
+<!-- ![Something](https://kuaiyouyi.oss-cn-shenzhen.aliyuncs.com/disk/2024-09-23/aa5238ea-514e-4159-bb1b-b104924092db.GIF) -->
+![](resources/h.gif)
 
-![Something](https://kuaiyouyi.oss-cn-shenzhen.aliyuncs.com/disk/2024-09-23/aa5238ea-514e-4159-bb1b-b104924092db.GIF)
 
 <!-- ## 开源项目
 

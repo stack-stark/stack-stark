@@ -46,4 +46,5 @@
 
 如果我的项目对你有帮助，你想请我喝咖啡
 
-![](resources/code.jpg)
+<!-- ![](resources/code.jpg) -->
+<img src="resources/code.jpg" alt="描述" width="260" height="260" />
